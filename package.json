@@ -4,7 +4,6 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-//    "start": "concurrently \"json-server --watch db.jsonh\" \"ng serve\" ",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
